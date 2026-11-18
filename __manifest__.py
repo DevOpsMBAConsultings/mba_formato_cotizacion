@@ -1,6 +1,6 @@
 {
-    'name': 'Formato Cotización Estilizado',
-    'version': '19.0.1.0.1',
+    'name': 'Formato Cotización Estilizado (MBA Consultings)',
+    'version': '19.0.1.0.2',
     'license': 'LGPL-3',
     'summary': 'Formato profesional y estilizado de cotización',
     'category': 'Sales',
